@@ -6,6 +6,10 @@ public class Animal
 	{
 		System.out.println("Animals makes sound");
 	}
+	public void doThe()
+	{
+		System.out.println("Nothing");
+	}
 }
 
 class Pig extends Animal
