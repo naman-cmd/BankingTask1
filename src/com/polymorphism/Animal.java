@@ -8,7 +8,7 @@ public class Animal
 	}
 	public void doThe()
 	{
-		System.out.println("Nothing");
+		System.out.println("Nothing does");
 	}
 }
 
