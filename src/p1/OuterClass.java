@@ -17,7 +17,7 @@ class MainClass1
 		OuterClass out = new OuterClass();
 		OuterClass.InnerClass in = out.new InnerClass();
 		
-		System.out.println(out.x);
+		
 		System.out.println(in.y);
 		
 	}
